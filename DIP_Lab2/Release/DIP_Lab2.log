@@ -1,0 +1,16 @@
+﻿Build started 01/20/2016 3:01:27 AM.
+     1>Project "C:\Users\Song\Documents\GitHubVisualStudio\DIP_Lab2\DIP_Lab2\DIP_Lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Song\Documents\GitHubVisualStudio\DIP_Lab2\Release\DIP_Lab2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Song\Documents\GitHubVisualStudio\DIP_Lab2\Release\DIP_Lab2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Song\Documents\GitHubVisualStudio\DIP_Lab2\Release\DIP_Lab2.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Generating code
+         All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         DIP_Lab2.vcxproj -> C:\Users\Song\Documents\GitHubVisualStudio\DIP_Lab2\Release\DIP_Lab2.exe
+     1>Done Building Project "C:\Users\Song\Documents\GitHubVisualStudio\DIP_Lab2\DIP_Lab2\DIP_Lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
